@@ -157,6 +157,7 @@ p {
     margin-top: 0px;
     border-radius: 2px;
     background-color: var(--white-color);
+    z-index: 1;
 }
 
 .select-input__link {
